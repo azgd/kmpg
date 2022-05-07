@@ -1,6 +1,9 @@
 # kmpg
 
 
+
+“We understand your time is precious, but as discussed we ask each applicant to take on our small challenges. There is no right or wrong approach and we're certainly not expecting war and peace, We would expect no more than 30 minutes per challenge, if at the end of the time you haven’t completed don’t worry just send us what you have. (Upload to a GIT repository and send back to me.)
+
 Challenge #1
 
 A 3 tier environment is a common setup. Use a tool of your choosing/familiarity create these resources. Please remember we will not be judged on the outcome but more focusing on the approach, style and reproducibility.
