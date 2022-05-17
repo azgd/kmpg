@@ -1,0 +1,8 @@
+app_service_plan_name = "asp-eucs-token"
+elastic_pool_name = "pool-eucs-token"
+function_app_name = "func-eucs-token"
+key_vault_name = "kv-eucs-token-dev"
+resource_group_name = "rg-eucs-token"
+storage_account_name = "steucsmfatokendev"
+sql_server_administrator = "mfatokenadmin"
+sql_server_name = "sql-eucs-token"
