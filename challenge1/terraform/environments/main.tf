@@ -88,7 +88,7 @@ resource "azurerm_function_app" "function_app" {
   connection_string {
     name  = "StorageAccount"
     type  = "Custom"
-    value = azurerm_storage_account.storage_account.primary_blob_endpoint
+    value = azurerm_storage_account.storage_account.primary_blob_connection_string
   }
 
   connection_string {
